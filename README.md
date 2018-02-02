@@ -3,7 +3,9 @@ Simulates the operations of the MIPS processor
 
 Anything after # symbol in input file is ignored.
 
+
 Commands:
+
 r = dump register contents
 
 m = dump memory contents (in Hexadecimal format)
