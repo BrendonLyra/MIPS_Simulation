@@ -2,7 +2,6 @@
 //Bailey Waldorf
 //Jonathon Irigoyen
 //12/1/17/
-//Project
 #include "spimcore.h"
 
 
@@ -56,7 +55,7 @@ void ALU(unsigned A,unsigned B,char ALUControl,unsigned *ALUresult,char *Zero)
     //make zero = 0
     *Zero = 0;
     //and if alu result is 0, make *Zero = 1
-    if (ALUresult == 0)
+    if (*ALUresult == 0)
         *Zero = 1;
 
 
