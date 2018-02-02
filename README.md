@@ -1,6 +1,8 @@
 # MIPS_Simulation
 Simulates the operations of the MIPS processor
 
+Anything after # symbol in input file is ignored.
+
 Commands:
 r = dump register contents
 
