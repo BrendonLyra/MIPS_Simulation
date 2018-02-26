@@ -1,7 +1,4 @@
-//Brendon Lyra
-//Bailey Waldorf
-//Jonathon Irigoyen
-//12/1/17/
+//12/1/17
 #include "spimcore.h"
 
 
